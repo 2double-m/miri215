@@ -35,6 +35,4 @@ Here are some ideas to get you started:
  <p>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/miri215?style=social">
  </p>
-<img src="http://img.shields.io/badge/-Hyeonji's Blog-pink?style=faltt&logo=Bloglovin"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
