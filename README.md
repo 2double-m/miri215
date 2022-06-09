@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=kaya&fontSize=90a" />
+ <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=kaya&fontSize=90" />
  <p>
   <a href="https://www.youtube.com/">
    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
