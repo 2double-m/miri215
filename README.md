@@ -14,13 +14,21 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=kaya&fontSize=90" />
+ <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=kaya&fontSize=90a" />
  <p>
   <a href="https://www.youtube.com/">
    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
   </a>
  </p>
+<br>
+</br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=miri215&theme=vue&show_icons=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miri215&theme=vue&show_icons=true" width=500 />
+
+<br>
+</br>
  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=%20&fontSize=90" />
 <br>
 </br>
